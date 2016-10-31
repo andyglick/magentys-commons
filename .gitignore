@@ -1,12 +1,21 @@
-*.class
+# IDE working files
+*.iws
+*.ipr
+*.iml
+.idea/
+.settings
+.project
+.classpath
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Build directories
+target
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Build and test files
+*.log
+*.lck
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
