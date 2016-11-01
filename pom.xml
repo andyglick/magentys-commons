@@ -4,7 +4,7 @@
 
     <groupId>io.magentys</groupId>
     <artifactId>magentys-commons</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>magentys-commons</name>
     <url>http://maven.apache.org</url>
@@ -39,7 +39,7 @@
     <scm>
         <developerConnection>scm:git:git@github.com:MagenTys/magentys-commons.git</developerConnection>
         <url>https://github.com/MagenTys/magentys-commons</url>
-        <tag>magentys-commons-0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <distributionManagement>
